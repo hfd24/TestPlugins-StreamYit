@@ -2,7 +2,7 @@
 
 # `Cloudstream3 Plugin Repo Template`
 
-# Test Trigger
+# Test Trigger 1
 
 Template for a [Cloudstream3](https://github.com/recloudstream) plugin repo
 
